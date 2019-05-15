@@ -17,4 +17,7 @@ Gradester is a portal that both students and teaches can you to organize and kee
 
 <h1>Step 2</h1>
 <p>Edit line 2 of model.php to reflect your mysql information</p>
-`conn = mysqli_connect('localhost', 'balbuquerque', 'balbuquerque', 'C354_balbuquerque');`
+
+```php
+$conn = mysqli_connect('localhost', 'balbuquerque', 'balbuquerque', 'C354_balbuquerque');
+```
